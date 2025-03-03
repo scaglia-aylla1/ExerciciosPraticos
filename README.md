@@ -20,7 +20,7 @@ Os exercícios utilizam a linguagem C# e podem envolver:
 ## 🛠 Como Usar
 1. Clone este repositório:
    ```sh
-   git clone https://github.com/aylla-scaglia1/ExerciciosPraticosC#.git
+   git clone https://github.com/aylla-scaglia1/ExerciciosPraticosC-Sharp.git
    ```
 2. Navegue até a pasta do exercício desejado.
 3. Execute o código conforme as instruções no próprio arquivo.
