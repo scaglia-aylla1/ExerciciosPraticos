@@ -17,6 +17,18 @@ Os exercícios utilizam a linguagem C# e podem envolver:
 - Banco de dados SQL
 - Ferramentas como Visual Studio
 
+## 📂 Estrutura do Repositório
+
+O repositório está organizado em pastas conforme o tipo de exercício. Exemplo:
+```
+/exerciciosPraticos/
+   -Program.cs
+     - exercicio1.cs
+     - exercicio2.cs
+     - exercicio3.cs
+```
+
+
 ## 🛠 Como Usar
 1. Clone este repositório:
    ```sh
